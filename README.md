@@ -91,3 +91,17 @@ Olist-Ecommerce-Analysis/
 │   └── *.csv
 │
 └── README.md
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 1️⃣ Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### 2️⃣ Product & Customer Insights
+![Product & Customer Insights](screenshots/product_customer_insights.png)
+
+### 3️⃣ Regional & Payments Analysis
+![Regional & Payments Analysis](screenshots/regional_payments_analysis.png)
+
